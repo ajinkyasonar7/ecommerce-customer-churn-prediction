@@ -108,6 +108,7 @@ Potential enhancements to the project:
 - Testing additional algorithms (Random Forest, XGBoost, Neural Networks)
 - Hyperparameter tuning for improved performance
 - Deployment as a web service for real-time predictions
+- Adding webscrapper service
 - Integration with customer relationship management systems
 
 ## Requirements
@@ -126,4 +127,4 @@ This project is available for educational and commercial use.
 
 ## Author
 
-Data Science Project - E-commerce Customer Churn Analysis
+Ajinkya Sonar
